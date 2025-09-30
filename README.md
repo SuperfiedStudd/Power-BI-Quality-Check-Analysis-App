@@ -67,17 +67,17 @@ A total extra cost figure at the bottom quantifies the operational impact of unr
 
 ## Screenshots  
 
-### QC Failure by Type  
-![Failure Type](https://github.com/SuperfiedStudd/Power-BI-Quality-Check-Analysis-App/blob/main/docs/failure_type.png?raw=true)  
+### Dashboard Overview 
+![Failure Type](https://github.com/SuperfiedStudd/Power-BI-Quality-Check-Analysis-App/blob/main/docs/dashboard_overview.png?raw=true)  
 
-### QC Failure by Reason  
-![Failure Reason](https://github.com/SuperfiedStudd/Power-BI-Quality-Check-Analysis-App/blob/main/docs/failure_reason.png?raw=true)  
+### QC Failure Table  
+![Failure Reason](https://github.com/SuperfiedStudd/Power-BI-Quality-Check-Analysis-App/blob/main/docs/failure_table.png?raw=true)  
 
 ### Average Time to Fix  
 ![Time to Fix](https://github.com/SuperfiedStudd/Power-BI-Quality-Check-Analysis-App/blob/main/docs/time_to_fix.png?raw=true)  
 
-### QC Failure Details Table  
-![Failure Details](https://github.com/SuperfiedStudd/Power-BI-Quality-Check-Analysis-App/blob/main/docs/failure_details.png?raw=true)  
+### QC Failure Graph  
+![Failure Details](https://github.com/SuperfiedStudd/Power-BI-Quality-Check-Analysis-App/blob/main/docs/failure_graph.png?raw=true)  
 
 ---
 
